@@ -1,6 +1,6 @@
 # RAppCreate
 
-VB6 working copy of `RAppCreate` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Remote_App_Create. Output: `RAppCreate.exe`.
+VB6 Remote Application Execution (`RAppCreate.exe` / `Remote_App_Create`): WMI `Win32_Process.Create` against a remote host with domain credentials — enter hostname, user, password, and command, then Execute. Open `RAppCreate.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
